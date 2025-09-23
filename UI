@@ -184,7 +184,7 @@ Title.Size = UDim2.new(1, -60, 0, 20)
 Title.Font = Enum.Font.GothamBold
 Title.Text = "Gamer Time"
 Title.TextColor3 = Color3.new(1, 1, 1)
-Title.TextSize = 20
+Title.TextSize = 14
 Title.TextXAlignment = Enum.TextXAlignment.Left
 
 TabSelection.Name = "TabSelection"
